@@ -7,7 +7,7 @@ VERSION_MAJOR = 0
 VERSION_MINOR = 1
 
 -- If 1 then doesnt actually play music (for testing)
-RADIO_DISARM = 1
+RADIO_DISARM = 0
 
 -- Wire integration
 if SERVER then
